@@ -1,8 +1,16 @@
 # AppwebtechCopyrightTool
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/appwebtech_copyright_tool`. To experiment with that code, run `bin/console` for an interactive prompt.
+As I was coding my company (website)[http://theappwebtech.com/], I ran into issues on how I can create a dynamic copyright tool which will update automatically when we cross in a new year. Instead of using Javascript, I thought it wise to just build this ruby gem from scratch and make it available as a gem file on the (rubygems website)[https://rubygems.org/].
 
-TODO: Delete this and the text above, and describe your gem
+Any developer can use this gem to personalise their web application as a Ruby construct, and later call it to view via the application layout using embedded ruby. as below; 
+
+```erb
+.....
+<%= yield %> 
+<p> <%= @copyright %></p>
+.....
+```
+
 
 ## Installation
 
@@ -32,7 +40,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/appwebtech_copyright_tool.
+Bug reports and pull requests are welcome on GitHub at https://github.com/appwebtech/appwebtech_copyright_tool.
 
 ## License
 
