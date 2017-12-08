@@ -30,7 +30,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+AppwebtechViewTool::Renderer.copyright 'Appwebtech ', 'All rights reserved'
+```
 
 ## Development
 
