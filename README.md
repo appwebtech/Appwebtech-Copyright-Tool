@@ -1,6 +1,6 @@
 # AppwebtechCopyrightTool
 
-As I was coding my company (website)[http://theappwebtech.com/], I ran into issues on how I can create a dynamic copyright tool which will update automatically when we cross in a new year. Instead of using Javascript, I thought it wise to just build this ruby gem from scratch and make it available as a gem file on the (rubygems website)[https://rubygems.org/].
+As I was coding my company [website](http://theappwebtech.com/), I ran into issues on how I can create a dynamic copyright tool which will update automatically when we cross in a new year. Instead of using Javascript, I thought it wise to just build this ruby gem from scratch and make it available as a gem file on the [rubygems website](https://rubygems.org/).
 
 Any developer can use this gem to personalise their web application as a Ruby construct, and later call it to view via the application layout using embedded ruby. as below; 
 
@@ -44,6 +44,21 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/appwebtech/appwebtech_copyright_tool.
 
+## Website and social media
+
+[Appwebtech](http://www.theappwebtech.com/) website.
+
+[Github](https://github.com/appwebtech) code page.
+
+[Twitter](https://twitter.com/appwebtech) page.
+
+[Facebook](https://www.facebook.com/theappwebtech/) page.
+
+[Pinterest](https://it.pinterest.com/appwebtech/) page.
+
+
+
 ## License
+
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
