@@ -6,12 +6,12 @@ require "appwebtech_copyright_tool/version"
 Gem::Specification.new do |spec|
   spec.name          = "appwebtech_copyright_tool"
   spec.version       = AppwebtechCopyrightTool::VERSION
-  spec.authors       = ["Joseph"]
+  spec.authors       = ["Joseph M Mwania"]
   spec.email         = ["josembi@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Various view specific methods for application I use.}
+  spec.description   = %q{Provides generated HTML data for Ruby on Rails apps.}
+  spec.homepage      = "https://theappwebtech.com/"
   spec.license       = "MIT"
 
 
