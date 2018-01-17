@@ -1,7 +1,8 @@
 # Appwebtech Copyright Tool
 
+
+![awt_logo](https://user-images.githubusercontent.com/13242902/35071172-b6fc9e6e-fbd7-11e7-8a38-fe321799dfc2.png)
 <hr>
-![](https://user-images.githubusercontent.com/13242902/35069768-1d932f58-fbd3-11e7-927c-af5bb82c4234.png)
 
 As I was coding the [appwebtech](http://theappwebtech.com/) website, I ran into issues on how I can create a dynamic copyright tool which will update automatically when crossing a new year. I have been coding my web application since mid DEC to enable only partial view of the front-end when it goes live and I realised that much stuff pointed to 2017.
 
