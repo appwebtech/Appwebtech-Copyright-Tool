@@ -50,7 +50,7 @@ In case I release a new version, I'll update the version number in `version.rb`,
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/appwebtech/appwebtech_copyright_tool.
+Bug reports and pull requests are welcome on GitHub at https://github.com/appwebtech/Appwebtech-Copyright-Tool
 
 ## Website and social media
 
@@ -63,6 +63,8 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/appweb
 [Facebook](https://www.facebook.com/appwebtech/) page.
 
 [Pinterest](https://it.pinterest.com/appwebtech/) page.
+
+[Google+](https://plus.google.com/u/1/104000565731100573953) page.
 
 [Linkedin](https://www.linkedin.com/company/appwebtech/) page.
 
